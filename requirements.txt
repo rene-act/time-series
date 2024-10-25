@@ -1,0 +1,6 @@
+pandas==1.5.3
+numpy==1.25
+Matplotlib==3.9.2
+seaborn==0.13.2
+Statsmodels==0.14.4
+scikit-learn==1.5.2
